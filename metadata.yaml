@@ -1,0 +1,28 @@
+_repo: Robert-Fulton-and-the-Submarine_63351
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parsons, William Barclay
+    alias: Parsons, Wm. Barclay (William Barclay)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '52392'
+    url: http://www.gutenberg.org/2009/agents/52392
+    wikipedia: https://en.wikipedia.org/wiki/William_Barclay_Parsons
+description: ''
+gutenberg_issued: '2020-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63351'
+  lccn: '23005456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships)'
+- !lcsh 'Fulton, Robert, 1765-1815'
+- !lcc 'VM'
+- GITenberg
+title: Robert Fulton and the Submarine
+url: http://www.gutenberg.org/ebooks/63351
